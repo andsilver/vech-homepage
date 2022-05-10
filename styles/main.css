@@ -1023,7 +1023,7 @@ header .button {
 }
 
 .hero-section {
-  background: url(/resources/images/hero.png);
+  background: url(../resources/images/hero.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
