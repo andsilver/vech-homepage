@@ -1041,3 +1041,45 @@ header .button {
   text-align: left;
   width: unset;
 }
+
+.vech-nft-section {
+  padding: 0 80px;
+  max-width: 1250px;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.vech-nft-section--image {
+  margin-right: 36px;
+}
+
+.vech-nft-section .content-section__title {
+  margin: 0;
+  margin-bottom: 36px;
+  text-align: left;
+}
+
+.vech-nft-section .content-section__text {
+  text-align: left;
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 24px;
+  width: unset;
+  max-width: 600px;
+}
+
+.video-section {
+  max-width: 1250px;
+  margin: 0 auto;
+}
+
+.video-section iframe {
+  height: 80%;
+}
+
+.team-section {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 0 48px;
+}
